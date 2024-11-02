@@ -10,6 +10,7 @@ I am a dedicated <b>Data Analyst</b> with a strong <b>data analysis</b>, <b>visu
 </br>
 <hr>
 
+
  <h2> <img src="https://drive.google.com/uc?export=view&id=1C3W4IqodHxHeoF8QABPN6kwXyg6BkKtd" width="25" height="25" alt="Description of GIF"> Technical Skills  </h2>
 
 - <b>Data Analysis:</b> Pandas, Numpy, Power BI, DAX, Microsoft Excel, Data Modelling
