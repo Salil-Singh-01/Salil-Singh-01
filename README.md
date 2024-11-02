@@ -68,6 +68,7 @@ I am a dedicated <b>Data Analyst</b> with a strong <b>data analysis</b>, <b>visu
 - Machine learning
 - Open-source contributions
 - Data Analysis
+- Web Scraping
   
 <hr> 
 
@@ -78,6 +79,32 @@ I am a dedicated <b>Data Analyst</b> with a strong <b>data analysis</b>, <b>visu
 - Power BI Dashboards
 
 <hr>
+
+ <h2> <img src="https://drive.google.com/uc?export=view&id=14ZRUAuREugDJmlzk84EyRTzHJyyL2SIV" width="25" height="25" alt="Description of GIF"> Connect With Me   </h2>
+
+- Python for data science
+- MySQL
+- Power BI Dashboards
+
+<hr>
+
+***"Please feel free to reach out if you'd like to discuss data analysis, share insights, or collaborate on projects. I'm always open to new opportunities and connections!"***
+
+<hr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- https://drive.google.com/file/d//view?usp=sharing
 
 - 🔭 I’m currently working on [Airbnb_Listing_Analysis](https://github.com/Saswat132002)
 
@@ -100,3 +127,4 @@ I am a dedicated <b>Data Analyst</b> with a strong <b>data analysis</b>, <b>visu
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salil-singh-01&show_icons=true&locale=en" alt="salil-singh-01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salil-singh-01&" alt="salil-singh-01" /></p>
+ -->
