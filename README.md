@@ -85,8 +85,9 @@ I am a dedicated <b>Data Analyst</b> with a strong <b>data analysis</b>, <b>visu
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Salil%20Singh-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Salil--Singh--01-black?logo=github)](https://github.com/Salil-Singh-01
-)
+[![GitHub](https://img.shields.io/badge/GitHub-Salil--Singh--01-black?logo=github)](https://github.com/Salil-Singh-01)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-salilsingh2000-blue?logo=kaggle)](https://www.kaggle.com/salilsingh2000)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-salilsingh2000-orange?logo=leetcode)](https://leetcode.com/anjanicoder)
 
