@@ -3,7 +3,7 @@
 <h1 align="left">" Hii there ! <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32">
-</picture>  I'm Salil Singh " </h1>
+</picture>  I'm Salil Singh. " </h1>
 
 </br>
 I am a dedicated <b>Data Analyst</b> with a strong <b>data analysis</b>, <b>visualization</b>, and <b>interpretation</b> foundation. I’m passionate about <b>Data Science</b>, <b>continuous learning</b> and applying new skills in <b>real-world scenarios</b>. I have hands-on experience in Python and various data analysis tools. Currently, I'm seeking opportunities to collaborate on impactful projects, especially those related to <b>Data Science</b>, <b>Machine Learning</b>, and <b>Python Development</b>.
