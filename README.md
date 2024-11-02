@@ -1,14 +1,39 @@
-
+<hr>
 <h1 align="left">Hii there ! <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32">
 </picture> , I'm Salil Singh </h1>
+
 </br>
 I am a dedicated <b>Data Analyst</b> with a strong <b>data analysis</b>, <b>visualization</b>, and <b>interpretation</b> foundation. I’m passionate about <b>Data Science</b>, <b>continuous learning</b> and applying new skills in <b>real-world scenarios</b>. I have hands-on experience in Python and various data analysis tools. Currently, I'm seeking opportunities to collaborate on impactful projects, especially those related to <b>Data Science</b>, <b>Machine Learning</b>, and <b>Python Development</b>.
+</br>
+<hr>
+
+ <h2> <img src="https://drive.google.com/uc?export=view&id=1C3W4IqodHxHeoF8QABPN6kwXyg6BkKtd" width="25" height="25" alt="Description of GIF"> Technical Skills  </h2>
+
+- <b>Data Analysis:</b> Pandas, Numpy, Power BI, DAX, Microsoft Excel, Data Modelling
+- <b>SQL Mastery:</b> Intermediate SQL (Certified), Complex Query Writing, MySQL, SQL Server
+- <b>Web Scraping & Automation:</b> Python, Selenium, Beautiful Soup
+- <b>Cloud Technologies:</b>  REST API Integration, GenAI, Gemini API
+- <b>Visualization:</b> Power BI Dashboards, Matplotlib, Seaborn
+- <b>Tools & Libraries:</b> Git, Github, Jupyter Notebook, VS Code
+
+<hr>
+ <h2> <img src="https://drive.google.com/uc?export=view&id=15qhqDhphwA9gxas5f_OJJBFI7AKgMWiG" width="25" height="25" alt="Description of GIF"> Soft Skills  </h2>
+
+- Teamwork
+- Problem-solving
+- Communication
+- Adapt Quickly
+
+<hr>
+
+ <h2> <img src="https://drive.google.com/uc?export=view&id=1ZmdTX9bWqVfzXu2flL4CmrsFOUqA_aP7" width="25" height="25" alt="Description of GIF"> Projects  </h2>
+
+ ###  <img src="https://drive.google.com/uc?export=view&id=1xhX3FoBoD_S10k77y7XJgKED9sUv57P6" width="25" height="25" alt="Description of GIF"> [Airbnb Listing Analysis](https://pages.github.com/) 
+<b>Tech Stack:</b>  Power BI | Selenium | Beautiful Soup | Power Query | DAX | Pandas
 
 
-
-<h4>A passionate frontend developer from India</h4>
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
