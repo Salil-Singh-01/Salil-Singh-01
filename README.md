@@ -72,15 +72,15 @@ I am a dedicated <b>Data Analyst</b> with a strong <b>data analysis</b>, <b>visu
 
  <h2> <img src="https://drive.google.com/uc?export=view&id=14ZRUAuREugDJmlzk84EyRTzHJyyL2SIV" width="25" height="25" alt="Description of GIF"> Connect With Me   </h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salil%20Singh-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salil%20Singh-blue?logo=linkedin)](https://www.linkedin.com/in/salil-singh-7164a6287)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Salil--Singh--01-black?logo=github)](https://github.com/Salil-Singh-01)
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-salilsingh2000-blue?logo=kaggle)](https://www.kaggle.com/salilsingh2000)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-salilsingh2000-orange?logo=leetcode)](https://leetcode.com/anjanicoder)
+[![LeetCode](https://img.shields.io/badge/LeetCode-salilsingh2000-orange?logo=leetcode)](https://leetcode.com/salilsingh2000)
 
-[![Gmail](https://img.shields.io/badge/Gmail-salilsingh709%40gmail.com-red?logo=gmail)](mailto:anjanicoder@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-salilsingh709%40gmail.com-red?logo=gmail)](mailto:salilsingh709@gmail.com)
 
 ![Location](https://img.shields.io/badge/Location-Rewa,_Madhya_Pradesh-blue?logo=google-maps)
 
