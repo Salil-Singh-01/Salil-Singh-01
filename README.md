@@ -32,20 +32,20 @@ I am a dedicated <b>Data Analyst</b> with a strong <b>data analysis</b>, <b>visu
 
  <h2> <img src="https://drive.google.com/uc?export=view&id=1ZmdTX9bWqVfzXu2flL4CmrsFOUqA_aP7" width="25" height="25" alt="Description of GIF"> Projects  </h2>
 
- ###  <img src="https://drive.google.com/uc?export=view&id=1xhX3FoBoD_S10k77y7XJgKED9sUv57P6" width="25" height="25" alt="Description of GIF"> [Airbnb Listing Analysis](https://pages.github.com/Salil-Singh-01/Airbnb_Listing_Analysis) 
+ ###  <img src="https://drive.google.com/uc?export=view&id=1xhX3FoBoD_S10k77y7XJgKED9sUv57P6" width="25" height="25" alt="Description of GIF"> [Airbnb Listing Analysis](https://github.com/Salil-Singh-01/Airbnb_Listing_Analysis) 
 <b>Tech Stack:</b> Google Drive | Python | pandas | pydrive | sqlalchemy | MySQL | PowerBI | DAX
 - Collected Airbnb data from Kaggle and saved it to Google Drive for easy access.
 - Cleaned and prepared the data in Python using Pandas to handle missing values and format it for analysis.
 - Stored the cleaned data in MySQL for efficient analysis and integration.
 - Created an interactive dashboard in Power BI to show insights like pricing trends, room types, and city comparisons.
 
- ###  <img src="https://drive.google.com/uc?export=view&id=1oSVONIvNiD9fO2Qg4ygUsSgk8lwmfSfy" width="25" height="25" alt="Description of GIF"> [LinkedIn Job Analysis](https://pages.github.com/Salil-Singh-01/LinkedIn_Job_Analysis) 
+ ###  <img src="https://drive.google.com/uc?export=view&id=1oSVONIvNiD9fO2Qg4ygUsSgk8lwmfSfy" width="25" height="25" alt="Description of GIF"> [LinkedIn Job Analysis](https://github.com/Salil-Singh-01/LinkedIn_Job_Analysis) 
 <b>Tech Stack:</b>  Power BI | Selenium | Beautiful Soup | Power Query | DAX | Pandas
 - Scraped job market data from LinkedIn using Python and Selenium.
 - Cleaned and structured the data with Pandas for analysis.
 - Built an interactive Power BI dashboard to visualize job trends and insights.
 
- ###  <img src="https://drive.google.com/uc?export=view&id=13EbUUWUTaVjLhDmiuuwRBgEnFpwyKxfL" width="25" height="25" alt="Description of GIF"> [Credit Card Analysis](https://pages.github.com/Salil-Singh-01/Credit_Card_Analysis) 
+ ###  <img src="https://drive.google.com/uc?export=view&id=13EbUUWUTaVjLhDmiuuwRBgEnFpwyKxfL" width="25" height="25" alt="Description of GIF"> [Credit Card Analysis](https://github.com/Salil-Singh-01/Credit_Card_Analysis) 
 <b>Tech Stack:</b>  Power BI | Python | Numpy | Pandas | DAX | Matplotlib | Seaborn | Streamlit
 - Analyzed bank client data from transactions, loans, and credit cards using Python.
 - Cleaned and preprocessed data with Pandas, extracting client demographics and handling missing values.
