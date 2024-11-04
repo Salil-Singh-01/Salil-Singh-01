@@ -50,7 +50,6 @@ I am a dedicated <b>Data Analyst</b> with a strong <b>data analysis</b>, <b>visu
 - Analyzed bank client data from transactions, loans, and credit cards using Python.
 - Cleaned and preprocessed data with Pandas, extracting client demographics and handling missing values.
 - Developed an interactive Streamlit dashboard to visualize economic disparities and loan risk patterns across districts.
-- Provided actionable insights for personalized banking services and enhanced risk management.
 
 <hr>
 
