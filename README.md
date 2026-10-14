@@ -82,7 +82,7 @@ I am a dedicated <b>Data Analytics Developer</b> and <b>Data Analyst</b> with 1.
 
  <h2> <img src="https://drive.google.com/uc?export=view&id=14ZRUAuREugDJmlzk84EyRTzHJyyL2SIV" width="25" height="25" alt="Description of GIF"> Connect With Me   </h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salil%20Singh-blue?logo=linkedin)](https://www.linkedin.com/in/salilsingh01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-salilsingh01-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salilsingh01)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Salil--Singh--01-black?logo=github)](https://github.com/Salil-Singh-01)
 
