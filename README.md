@@ -32,15 +32,15 @@ I am a dedicated <b>Data Analytics Developer</b> and <b>Data Analyst</b> with 1.
 
  ###  <img src="https://drive.google.com/uc?export=view&id=1lPnCAiykDOBch-xj3D05pGCLh9WShuNk" width="25" height="25" alt="Description of GIF"> [Healthcare Revenue & Clinical Analytics](https://github.com/salil-singh-01) 
 <b>Tech Stack:</b> Microsoft Fabric | SQL | Power BI | T-SQL | Delta Lake
-- Engineered a scalable Medallion lakehouse by implementing incremental loads to ingest over 800,000 monthly clinical records into a Bronze layer, standardizing them into Silver Delta tables to reduce data preparation time by 30%.
-- Accelerated analytical query performance by transitioning structured data into a Gold Data Warehouse via T-SQL stored procedures, designing a star-schema semantic model that cut dataset refresh times from 3 hours to under 45 minutes.
-- Streamlined decision-making by developing Power BI dashboards with incremental refresh and custom DAX measures, saving the operations team 15+ hours per week in manual reporting.
+- Engineered a scalable Medallion lakehouse by implementing incremental loads to ingest over 800,000 monthly clinical records into a <b>Bronze</b> layer, standardizing them into <b>Silver Delta tables</b> to reduce data preparation time by 30%.
+- Accelerated analytical query performance by transitioning structured data into a <b>Gold Data Warehouse</b> via <b>T-SQL stored procedures</b>, designing a <b>star-schema semantic model</b> that cut dataset refresh times from 3 hours to under 45 minutes.
+- Streamlined decision-making by developing <b>Power BI dashboards</b> with <b>incremental refresh</b> and custom <b>DAX measures</b>, saving the operations team 15+ hours per week in manual reporting.
 
  ###  <img src="https://drive.google.com/uc?export=view&id=1RNyP0AS-2TLo3xR5w6z8xB1HfUcvAgYr" width="25" height="25" alt="Description of GIF"> [Law Firm Financial Analytics](https://github.com/salil-singh-01) 
 <b>Tech Stack:</b> Microsoft Fabric | SQL | Power BI | Excel | T-SQL
-- Consolidated 4 disparate operational systems into a centralized Bronze repository using automated incremental loads, systematically cleaning raw data into Silver-layer Delta tables to achieve 98% data accuracy.
-- Structured active and historical billable hours by moving data into a Gold Data Warehouse using optimized T-SQL stored procedures, successfully eliminating data duplication across departmental reports.
-- Improved resource tracking by delivering interactive Power BI dashboards equipped with incremental refresh, enabling proactive identification of 12% in unbilled resource hours.
+- Consolidated 4 disparate operational systems into a centralized <b>Bronze repository</b> using automated <b>incremental loads</b>, systematically cleaning raw data into <b>Silver-layer Delta tables</b> to achieve 98% data accuracy.
+- Structured active and historical billable hours by moving data into a <b>Gold Data Warehouse</b> using optimized <b>T-SQL stored procedures</b>, successfully eliminating data duplication across departmental reports.
+- Improved resource tracking by delivering interactive <b>Power BI dashboards</b> equipped with <b>incremental refresh</b>, enabling proactive identification of 12% in unbilled resource hours.
 
  ###  <img src="https://drive.google.com/uc?export=view&id=1xhX3FoBoD_S10k77y7XJgKED9sUv57P6" width="25" height="25" alt="Description of GIF"> [Airbnb Listing Analysis](https://github.com/Salil-Singh-01/Airbnb_Listing_Analysis) 
 <b>Tech Stack:</b> Google Drive | Python | Pandas | PyDrive | SQLAlchemy | MySQL | Power BI | DAX
