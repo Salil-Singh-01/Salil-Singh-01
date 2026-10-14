@@ -6,24 +6,22 @@
 </picture>  I'm Salil Singh. " </h1>
 
 </br>
-I am a dedicated <b>Data Analyst</b> with a strong <b>data analysis</b>, <b>visualization</b>, and <b>interpretation</b> foundation. I’m passionate about <b>Data Science</b>, <b>continuous learning</b> and applying new skills in <b>real-world scenarios</b>. I have hands-on experience in Python and various data analysis tools. Currently, I'm seeking opportunities to collaborate on impactful projects, especially those related to <b>Data Science</b>, <b>Machine Learning</b>, and <b>Python Development</b>.
+I am a dedicated <b>Data Analytics Developer</b> and <b>Data Analyst</b> with 1.5+ years of experience building end-to-end data workflows. I’m passionate about transforming complex data into scalable analytics solutions through the strategic use of <b>Microsoft Fabric</b>, <b>Python</b>, <b>PySpark</b>, and <b>SQL</b>. I have hands-on experience in developing Medallion Architectures and interactive <b>Power BI</b> reporting systems. Currently, I'm seeking opportunities to collaborate on impactful projects, especially those related to <b>Data Engineering</b>, <b>Business Intelligence</b>, and <b>Advanced Analytics</b>.
 </br>
 <hr>
 
-
  <h2> <img src="https://drive.google.com/uc?export=view&id=1C3W4IqodHxHeoF8QABPN6kwXyg6BkKtd" width="25" height="25" alt="Description of GIF"> Technical Skills  </h2>
 
-- <b>Data Analysis:</b> Pandas, Numpy, Power BI, DAX, Microsoft Excel, Data Modelling
-- <b>SQL Mastery:</b> Intermediate SQL (Certified), Complex Query Writing, MySQL, SQL Server
+- <b>Data Analysis & BI:</b> Power BI, DAX, Microsoft Excel, Data Modeling (Star Schema), Row-Level Security
+- <b>Data Engineering & Cloud Platforms:</b> Microsoft Fabric (Lakehouse, Data Warehouse, Dataflow Gen2), Delta Lake, Medallion Architecture
+- <b>Programming & Databases:</b> Python (Pandas, NumPy), PySpark, T-SQL, MySQL
 - <b>Web Scraping & Automation:</b> Python, Selenium, Beautiful Soup
-- <b>Cloud Technologies:</b>  REST API Integration, GenAI, Gemini API
-- <b>Visualization:</b> Power BI Dashboards, Matplotlib, Seaborn
-- <b>Tools & Libraries:</b> Git, Github, Jupyter Notebook, VS Code
+- <b>Tools & Methodologies:</b> Git, GitHub, VS Code, Anaconda, Scrum/Agile
 
 <hr>
  <h2> <img src="https://drive.google.com/uc?export=view&id=15qhqDhphwA9gxas5f_OJJBFI7AKgMWiG" width="25" height="25" alt="Description of GIF"> Soft Skills  </h2>
 
-- Teamwork
+- Teamwork & Cross-functional Collaboration
 - Problem-solving
 - Communication
 - Adapt Quickly
@@ -32,8 +30,20 @@ I am a dedicated <b>Data Analyst</b> with a strong <b>data analysis</b>, <b>visu
 
  <h2> <img src="https://drive.google.com/uc?export=view&id=1ZmdTX9bWqVfzXu2flL4CmrsFOUqA_aP7" width="25" height="25" alt="Description of GIF"> Projects  </h2>
 
+ ###  <img src="https://drive.google.com/uc?export=view&id=1xhX3FoBoD_S10k77y7XJgKED9sUv57P6" width="25" height="25" alt="Description of GIF"> [Healthcare Revenue & Clinical Analytics](https://github.com/salil-singh-01) 
+<b>Tech Stack:</b> Microsoft Fabric | SQL | Power BI | T-SQL | Delta Lake
+- Engineered a scalable Medallion lakehouse by implementing incremental loads to ingest over 800,000 monthly clinical records into a Bronze layer, standardizing them into Silver Delta tables to reduce data preparation time by 30%.
+- Accelerated analytical query performance by transitioning structured data into a Gold Data Warehouse via T-SQL stored procedures, designing a star-schema semantic model that cut dataset refresh times from 3 hours to under 45 minutes.
+- Streamlined decision-making by developing Power BI dashboards with incremental refresh and custom DAX measures, saving the operations team 15+ hours per week in manual reporting.
+
+ ###  <img src="https://drive.google.com/uc?export=view&id=1oSVONIvNiD9fO2Qg4ygUsSgk8lwmfSfy" width="25" height="25" alt="Description of GIF"> [Law Firm Financial Analytics](https://github.com/salil-singh-01) 
+<b>Tech Stack:</b> Microsoft Fabric | SQL | Power BI | Excel | T-SQL
+- Consolidated 4 disparate operational systems into a centralized Bronze repository using automated incremental loads, systematically cleaning raw data into Silver-layer Delta tables to achieve 98% data accuracy.
+- Structured active and historical billable hours by moving data into a Gold Data Warehouse using optimized T-SQL stored procedures, successfully eliminating data duplication across departmental reports.
+- Improved resource tracking by delivering interactive Power BI dashboards equipped with incremental refresh, enabling proactive identification of 12% in unbilled resource hours.
+
  ###  <img src="https://drive.google.com/uc?export=view&id=1xhX3FoBoD_S10k77y7XJgKED9sUv57P6" width="25" height="25" alt="Description of GIF"> [Airbnb Listing Analysis](https://github.com/Salil-Singh-01/Airbnb_Listing_Analysis) 
-<b>Tech Stack:</b> Google Drive | Python | pandas | pydrive | sqlalchemy | MySQL | PowerBI | DAX
+<b>Tech Stack:</b> Google Drive | Python | Pandas | PyDrive | SQLAlchemy | MySQL | Power BI | DAX
 - Collected Airbnb data from Kaggle and saved it to Google Drive for easy access.
 - Cleaned and prepared the data in Python using Pandas to handle missing values and format it for analysis.
 - Stored the cleaned data in MySQL for efficient analysis and integration.
@@ -46,7 +56,7 @@ I am a dedicated <b>Data Analyst</b> with a strong <b>data analysis</b>, <b>visu
 - Built an interactive Power BI dashboard to visualize job trends and insights.
 
  ###  <img src="https://drive.google.com/uc?export=view&id=13EbUUWUTaVjLhDmiuuwRBgEnFpwyKxfL" width="25" height="25" alt="Description of GIF"> [Credit Card Analysis](https://github.com/Salil-Singh-01/Credit_Card_Analysis) 
-<b>Tech Stack:</b>  Power BI | Python | Numpy | Pandas | DAX | Matplotlib | Seaborn | Streamlit
+<b>Tech Stack:</b>  Power BI | Python | NumPy | Pandas | DAX | Matplotlib | Seaborn | Streamlit
 - Analyzed bank client data from transactions, loans, and credit cards using Python.
 - Cleaned and preprocessed data with Pandas, extracting client demographics and handling missing values.
 - Developed an interactive Streamlit dashboard to visualize economic disparities and loan risk patterns across districts.
@@ -55,24 +65,24 @@ I am a dedicated <b>Data Analyst</b> with a strong <b>data analysis</b>, <b>visu
 
 <h2> <img src="https://drive.google.com/uc?export=view&id=1PNwZu4EKv5Ic8vKi7jlu6_gwkY4zCvgu" width="25" height="25" alt="Description of GIF"> Interested In  </h2>
 
-- Machine learning
+- Data Engineering & Architecture
 - Open-source contributions
-- Data Analysis
-- Web Scraping
+- Data Analysis & Business Intelligence
+- Advanced Analytics
   
 <hr> 
 
  <h2> <img src="https://drive.google.com/uc?export=view&id=1ubkn_9qL0YjVTqTuKb_Bq1L-o70wEKzj" width="25" height="25" alt="Description of GIF"> Currently Learning   </h2>
 
-- Python for data science
-- MySQL
-- Power BI Dashboards
+- Advanced Microsoft Fabric capabilities
+- PySpark for big data processing
+- Enterprise-level Data Governance
 
 <hr>
 
  <h2> <img src="https://drive.google.com/uc?export=view&id=14ZRUAuREugDJmlzk84EyRTzHJyyL2SIV" width="25" height="25" alt="Description of GIF"> Connect With Me   </h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salil%20Singh-blue?logo=linkedin)](https://www.linkedin.com/in/salil-singh-7164a6287)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salil%20Singh-blue?logo=linkedin)](https://www.linkedin.com/in/salilsingh01)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Salil--Singh--01-black?logo=github)](https://github.com/Salil-Singh-01)
 
@@ -80,10 +90,9 @@ I am a dedicated <b>Data Analyst</b> with a strong <b>data analysis</b>, <b>visu
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-salilsingh2000-orange?logo=leetcode)](https://leetcode.com/salilsingh2000)
 
-[![Gmail](https://img.shields.io/badge/Gmail-salilsingh709%40gmail.com-red?logo=gmail)](mailto:salilsingh709@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-contact.salilsingh%40gmail.com-red?logo=gmail)](mailto:contact.salilsingh@gmail.com)
 
-![Location](https://img.shields.io/badge/Location-Rewa,_Madhya_Pradesh-blue?logo=google-maps)
-
+![Location](https://img.shields.io/badge/Location-Bengaluru,_India-blue?logo=google-maps)
 
 <hr>
 
@@ -91,33 +100,7 @@ I am a dedicated <b>Data Analyst</b> with a strong <b>data analysis</b>, <b>visu
 
 <hr>
 
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- https://drive.google.com/file/d//view?usp=sharing
-
-- 🔭 I’m currently working on [Airbnb_Listing_Analysis](https://github.com/Saswat132002)
-
-- 👯 I’m looking to collaborate on [Credit_Card_Analysis](https://github.com/Saswat132002)
-
-- 🤝 I’m looking for help with [LinkedIn_Job_Analysis](https://github.com/Saswat132002)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/salil-singh-7164a6287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salil-singh-7164a6287" height="30" width="40" /></a>
-<a href="https://kaggle.com/salilsingh2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="salilsingh2000" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/salilsingh2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="salilsingh2000" height="30" width="40" /></a>
-</p>
-
+<!-- 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
