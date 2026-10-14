@@ -30,13 +30,13 @@ I am a dedicated <b>Data Analytics Developer</b> and <b>Data Analyst</b> with 1.
 
  <h2> <img src="https://drive.google.com/uc?export=view&id=1ZmdTX9bWqVfzXu2flL4CmrsFOUqA_aP7" width="25" height="25" alt="Description of GIF"> Projects  </h2>
 
- ###  <img src="https://drive.google.com/uc?export=view&id=1xhX3FoBoD_S10k77y7XJgKED9sUv57P6" width="25" height="25" alt="Description of GIF"> [Healthcare Revenue & Clinical Analytics](https://github.com/salil-singh-01) 
+ ###  <img src="https://drive.google.com/file/d/1lPnCAiykDOBch-xj3D05pGCLh9WShuNk/view?usp=sharing" width="25" height="25" alt="Description of GIF"> [Healthcare Revenue & Clinical Analytics](https://github.com/salil-singh-01) 
 <b>Tech Stack:</b> Microsoft Fabric | SQL | Power BI | T-SQL | Delta Lake
 - Engineered a scalable Medallion lakehouse by implementing incremental loads to ingest over 800,000 monthly clinical records into a Bronze layer, standardizing them into Silver Delta tables to reduce data preparation time by 30%.
 - Accelerated analytical query performance by transitioning structured data into a Gold Data Warehouse via T-SQL stored procedures, designing a star-schema semantic model that cut dataset refresh times from 3 hours to under 45 minutes.
 - Streamlined decision-making by developing Power BI dashboards with incremental refresh and custom DAX measures, saving the operations team 15+ hours per week in manual reporting.
 
- ###  <img src="https://drive.google.com/uc?export=view&id=1oSVONIvNiD9fO2Qg4ygUsSgk8lwmfSfy" width="25" height="25" alt="Description of GIF"> [Law Firm Financial Analytics](https://github.com/salil-singh-01) 
+ ###  <img src="https://drive.google.com/file/d/1RNyP0AS-2TLo3xR5w6z8xB1HfUcvAgYr/view?usp=sharing" width="25" height="25" alt="Description of GIF"> [Law Firm Financial Analytics](https://github.com/salil-singh-01) 
 <b>Tech Stack:</b> Microsoft Fabric | SQL | Power BI | Excel | T-SQL
 - Consolidated 4 disparate operational systems into a centralized Bronze repository using automated incremental loads, systematically cleaning raw data into Silver-layer Delta tables to achieve 98% data accuracy.
 - Structured active and historical billable hours by moving data into a Gold Data Warehouse using optimized T-SQL stored procedures, successfully eliminating data duplication across departmental reports.
