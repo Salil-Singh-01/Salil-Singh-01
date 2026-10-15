@@ -13,7 +13,7 @@ I am a dedicated <b>Data Analytics Developer</b> and <b>Data Analyst</b> with 1.
  <h2> <img src="https://drive.google.com/uc?export=view&id=1C3W4IqodHxHeoF8QABPN6kwXyg6BkKtd" width="25" height="25" alt="Description of GIF"> Technical Skills  </h2>
 
 - <b>Data Analysis & BI:</b> Power BI, DAX, Microsoft Excel, Data Modeling (Star Schema), Row-Level Security
-- <b>Data Engineering & Cloud Platforms:</b> Microsoft Fabric (Lakehouse, Data Warehouse, Dataflow Gen2), Delta Lake, Medallion Architecture
+- <b>Data Engineering & Cloud Platforms:</b> Microsoft Fabric (Lakehouse, Data Warehouse, Dataflow Gen2, Semantic Model), Delta Lake, Medallion Architecture
 - <b>Programming & Databases:</b> Python (Pandas, NumPy), PySpark, T-SQL, MySQL
 - <b>Web Scraping & Automation:</b> Python, Selenium, Beautiful Soup
 - <b>Tools & Methodologies:</b> Git, GitHub, VS Code, Anaconda, Scrum/Agile
