@@ -31,13 +31,13 @@ I am a dedicated <b>Data Analytics Developer</b> and <b>Data Analyst</b> with 1.
  <h2> <img src="https://drive.google.com/uc?export=view&id=1ZmdTX9bWqVfzXu2flL4CmrsFOUqA_aP7" width="25" height="25" alt="Description of GIF"> Projects  </h2>
 
  ###  <img src="https://drive.google.com/uc?export=view&id=1lPnCAiykDOBch-xj3D05pGCLh9WShuNk" width="25" height="25" alt="Description of GIF"> [Healthcare Revenue & Clinical Analytics](https://github.com/salil-singh-01) 
-<b>Tech Stack:</b> Microsoft Fabric | SQL | Power BI | T-SQL | Delta Lake
+<b>Tech Stack:</b> Microsoft Fabric | SQL | T-SQL | Power BI | DAX | Lakehouse | Delta Tables | Medallion Architecture | Data Warehouse | Star Schema | Semantic Models | Incremental Load | Incremental Refresh
 - Engineered a scalable Medallion lakehouse by implementing incremental loads to ingest over 800,000 monthly clinical records into a <b>Bronze</b> layer, standardizing them into <b>Silver Delta tables</b> to reduce data preparation time by 30%.
 - Accelerated analytical query performance by transitioning structured data into a <b>Gold Data Warehouse</b> via <b>T-SQL stored procedures</b>, designing a <b>star-schema semantic model</b> that cut dataset refresh times from 3 hours to under 45 minutes.
 - Streamlined decision-making by developing <b>Power BI dashboards</b> with <b>incremental refresh</b> and custom <b>DAX measures</b>, saving the operations team 15+ hours per week in manual reporting.
 
  ###  <img src="https://drive.google.com/uc?export=view&id=1RNyP0AS-2TLo3xR5w6z8xB1HfUcvAgYr" width="25" height="25" alt="Description of GIF"> [Law Firm Financial Analytics](https://github.com/salil-singh-01) 
-<b>Tech Stack:</b> Microsoft Fabric | SQL | Power BI | Excel | T-SQL
+<b>Tech Stack:</b> Microsoft Fabric | SQL | Power BI | Excel | T-SQL | ETL Pipelines | Incremental Load | Delta Tables | Medallion Architecture | Data Warehouse | Semantic Models | Incremental Refresh
 - Consolidated 4 disparate operational systems into a centralized <b>Bronze repository</b> using automated <b>incremental loads</b>, systematically cleaning raw data into <b>Silver-layer Delta tables</b> to achieve 98% data accuracy.
 - Structured active and historical billable hours by moving data into a <b>Gold Data Warehouse</b> using optimized <b>T-SQL stored procedures</b>, successfully eliminating data duplication across departmental reports.
 - Improved resource tracking by delivering interactive <b>Power BI dashboards</b> equipped with <b>incremental refresh</b>, enabling proactive identification of 12% in unbilled resource hours.
